@@ -1,0 +1,2 @@
+Hello, Word! 2
+I am writting into a file using BufferedOutputStream
